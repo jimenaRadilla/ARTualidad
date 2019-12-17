@@ -9,12 +9,15 @@ article {
     width: 70px;
     height: 70px;
     border: 1px black solid;
-    border-radius: 20px;
+    border-radius: 50px;
 }
 
 body{
     background: #ffcd05;
 }
 .CustomImgFooter{
-    width: 70px;
+    width: 300px;
+}
+.logo{
+    width: 60px ;
 }

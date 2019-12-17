@@ -17,5 +17,11 @@
     width: 70px;
 }
 body{
-    height: 110vh;
+    height: 100vh;
 }   
+.logo{
+    width: 60px ;
+}
+.imgfooter{
+    width: 300px;
+}

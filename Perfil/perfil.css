@@ -1,19 +1,24 @@
 .customArticleForma {
     /* background: white; */
-    border: 3px black solid;
-    border-radius: 10px;
+    border: 2px black solid;
+    border-radius: 2px;
     width: 300px;
     height: 300px;
     /* color:white; */
 }
 section{
-    height: 90vh;
+    height: 70vh;
     /* border: green 2px solid; */
  
 }
 body{
+    /* height: 50vh ;  */
     background: #ffcd05;
 }
-.CustomImgFooter{
-    width: 70px;
+
+.logo {
+    width: 60px;
+}
+.imgfooter {
+    width: 300px;
 }
