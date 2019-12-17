@@ -6,3 +6,16 @@
     font-size: 50%;
     }
     
+    footer
+    {
+        border: black solid 2px;
+    }
+    .imgfooter
+    {
+        width: 300px;
+        
+    }
+    body
+    {
+        background-color: #FFCD05;
+    }
