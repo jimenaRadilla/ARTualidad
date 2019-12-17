@@ -1,0 +1,19 @@
+.customArticleForma {
+    /* background: white; */
+    border: 3px black solid;
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+    /* color:white; */
+}
+section{
+    height: 90vh;
+    /* border: green 2px solid; */
+ 
+}
+body{
+    background: #ffcd05;
+}
+.CustomImgFooter{
+    width: 70px;
+}

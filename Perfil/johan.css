@@ -1,0 +1,20 @@
+.customiMGcachorro {
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 100px;
+}
+
+article {
+    background: white;
+    width: 70px;
+    height: 70px;
+    border: 1px black solid;
+    border-radius: 20px;
+}
+
+body{
+    background: #ffcd05;
+}
+.CustomImgFooter{
+    width: 70px;
+}
