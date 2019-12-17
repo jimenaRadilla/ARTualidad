@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    margin: 5px;
+    
+    background-color: #ffcd05;
+}
+.card{
+    margin-top: 5px;
+    background-color: rgba(0, 0, 0, 0.315);
+    display:block;
+}
+.card-title{
+    font-size: large;
+}
+.card-img-overlay{
+    background-color: rgba(0, 0, 0, 0.185);
+}
+footer{
+    margin: 10px;
+    
+}
+.fotos{
+width: 150px;
+height: 150px;
+border-radius: 200px;
+margin-top: 15px;
+}
+.container{
+    width: 375px;
+}
+h1{
+    text-align: center;
+}
+
+.pie{
+    width: 100px;
+    justify-content: center;
+}
+.btn{
+    color: #000000;
+    border: solid rgba(0, 0, 0, 0.5);
+    margin-top: 10px;
+}
+.logo {
+    width: 60px;
+    }
+
+
